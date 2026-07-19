@@ -21,6 +21,13 @@ instead of narrating a scenic tour of its own findings.
 It does **not** touch how Claude writes code. Same rigor, same tools, same
 reasoning. It only changes the prose it aims at you.
 
+> [!TIP]
+> **⭐ If this made you exhale, star the repo.** Not for internet points — the
+> theory is that if enough of us star it, it eventually lands on a dashboard at
+> **Anthropic** and Claude finally learns to stop telling us about the seams in
+> our spines. Think of the star button as a petition. One click, no blast
+> radius. 🔥
+
 ---
 
 ## The problem, as documented by r/ClaudeCode
@@ -177,3 +184,17 @@ radius"](https://www.reddit.com/r/ClaudeCode/comments/1uyxibb/theres_a_terrible_
 
 If your Claude ever tells you your PR has a significant blast radius, send it
 here.
+
+---
+
+## One last thing: ⭐ star it
+
+Seriously. If you want Claude Code to talk like a person, the fastest way to
+make that happen is to make this loud enough that **Anthropic** notices. Stars
+are the only vote GitHub gives you.
+
+So: **[star the repo](https://github.com/VideoFireAI/ClaudeFire)**, send it to
+the one coworker whose Claude keeps calling their config "load-bearing," and
+let's get the seams out of everyone's spines.
+
+_No blast radius. Promise._
